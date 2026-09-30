@@ -2,7 +2,7 @@
   "$schema": "./node_modules/@linkdesk/plugin-sdk/schemas/plugin.schema.json",
   "pluginId": "theme-panorama",
   "name": "整窗主视觉",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "极限壳主题——background 域极限：sailor-moon.jpg 全窗低遮罩当主视觉，chrome 半透明让位（#50.27 效果验收端到端裁决，gallery ⑪ 壳真实落地）",
   "author": "LinkDesk",
   "icon": "resources/icon.svg",
@@ -10,7 +10,7 @@
     "themes": [
       {
         "id": "theme-panorama.panorama",
-        "label": "整窗主视觉 Main Visual",
+        "label": "整窗主视觉",
         "uiTheme": "dark",
         "path": "themes/panorama.json"
       }

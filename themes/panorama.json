@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@linkdesk/plugin-sdk/schemas/theme.schema.json",
   "id": "theme-panorama.panorama",
-  "name": "整窗主视觉 Main Visual",
+  "name": "整窗主视觉",
   "type": "dark",
   "appearance": {
     "background": {
