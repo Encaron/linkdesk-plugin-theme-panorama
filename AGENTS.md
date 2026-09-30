@@ -1,7 +1,7 @@
 # 整窗主视觉（theme-panorama）——LinkDesk 插件仓
 
 > **本文件是给在这个仓里干活的 AI 看的**（Claude Code / Codex / Cursor / …）。人看 `README.md`。
-> 插件身份的唯一来源 = `plugin.json` 顶层的 `pluginId`（本仓：`theme-panorama`）。当前版本 `1.0.5`。
+> 插件身份的唯一来源 = `plugin.json` 顶层的 `pluginId`（本仓：`theme-panorama`）。当前版本 `1.0.6`。
 
 ## 1. 这是什么
 
@@ -29,7 +29,6 @@
 
 **本仓没有 `src/`** —— 它是「数据插件」：能力全在 `plugin.json` 的声明 ＋ 数据文件里。
 
-**本仓没有 `i18n/`** —— 文案 key 就是中文原文，英文由语言包插件（`lang-defaults`）提供。
 
 - `resources/sailor-moon.jpg` 是**全仓唯一提交进来的位图**（.jpg）——其它仓的资源都是 svg。
 - 本仓**没有 `icon`**、也没有封面图（资源目录只有那张 jpg）。
