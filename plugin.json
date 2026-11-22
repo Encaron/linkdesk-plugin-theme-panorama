@@ -8,7 +8,7 @@
     "color-scheme"
   ],
   "description": "极限壳主题——background 域极限：sailor-moon.jpg 全窗低遮罩当主视觉，chrome 半透明让位（#50.27 效果验收端到端裁决，gallery ⑪ 壳真实落地）",
-  "author": "LinkDesk",
+  "author": "Encaron",
   "icon": "resources/icon.svg",
   "contributes": {
     "themes": [
