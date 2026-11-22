@@ -1,5 +1,9 @@
 # 更新日志
 
+## v1.0.11（2026-11-22）
+
+- **内容面可读性 token**：colorway 新增 `surface-reading` / `surface-reading-strong` / `surface-media-scrim` / `surface-ink`——玻璃主题在浅色/深色截图、Hero 与卡片浮层上保持文字可读；与壳内容面契约同步。
+
 ## v1.0.10（2026-11-20）
 
 - **分类声明（R4-2.8/2.9）**：`plugin.json` 顶层补 `category: "themes"` ＋ `categories: ["color-scheme"]`——商店分类抽屉归位，随本次发版进入官方目录条目。
