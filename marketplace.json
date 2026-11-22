@@ -12,6 +12,12 @@
       },
       "icon": "https://raw.githubusercontent.com/Encaron/linkdesk-plugin-theme-panorama/v1.0.10/resources/icon.svg",
       "iconSource": "url",
+      "cover": "https://raw.githubusercontent.com/Encaron/linkdesk-marketplace/HEAD/media/theme-panorama/shot-1.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Encaron/linkdesk-marketplace/HEAD/media/theme-panorama/shot-1.jpg",
+        "https://raw.githubusercontent.com/Encaron/linkdesk-marketplace/HEAD/media/theme-panorama/shot-2.jpg",
+        "https://raw.githubusercontent.com/Encaron/linkdesk-plugin-theme-panorama/HEAD/resources/sailor-moon.jpg"
+      ],
       "category": "themes",
       "categories": [
         "color-scheme"
