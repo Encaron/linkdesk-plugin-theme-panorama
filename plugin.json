@@ -2,7 +2,7 @@
   "$schema": "./node_modules/@linkdesk/plugin-sdk/schemas/plugin.schema.json",
   "pluginId": "theme-panorama",
   "name": "整窗主视觉",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "category": "themes",
   "categories": [
     "color-scheme"

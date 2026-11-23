@@ -1,5 +1,10 @@
 # 更新日志
 
+## v1.0.12（2026-11-23）
+
+- 清理已退役 token：`toggle-knob` / `toggle-knob-on`——2026-11-23 起开关颜色由壳按**有效强调色**派生，主题不再消费这两个键。无视觉变化。
+
+
 ## v1.0.11（2026-11-22）
 
 - **内容面可读性 token**：colorway 新增 `surface-reading` / `surface-reading-strong` / `surface-media-scrim` / `surface-ink`——玻璃主题在浅色/深色截图、Hero 与卡片浮层上保持文字可读；与壳内容面契约同步。
