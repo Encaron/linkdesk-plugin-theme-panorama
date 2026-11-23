@@ -2,7 +2,7 @@
   "$schema": "./node_modules/@linkdesk/plugin-sdk/schemas/plugin.schema.json",
   "pluginId": "theme-panorama",
   "name": "整窗主视觉",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "category": "themes",
   "categories": [
     "color-scheme"
@@ -21,6 +21,13 @@
     ],
     "i18n": {
       "en": "i18n/en.json"
+    }
+  },
+  "readme": {
+    "default": "README.md",
+    "locales": {
+      "zh": "README.md",
+      "en": "docs/readme/en.md"
     }
   }
 }
